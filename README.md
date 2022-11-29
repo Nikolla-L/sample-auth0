@@ -1,1 +1,1 @@
-# sample-auth0
+# sample auth0 with react and golang
